@@ -1,1 +1,1 @@
-pending-initial-sync
+v3.0
